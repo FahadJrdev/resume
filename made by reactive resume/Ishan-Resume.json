@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Fahad Bin Zahid",
+    "headline": "Full-Stack Software Developer | Laravel, React, REST APIs | Booking & Payment Systems",
+    "email": "leaderbin77@gmail.com",
+    "phone": "+8801830348735",
+    "location": "Faridpur, Dhaka, Bangladesh",
+    "url": {
+      "label": "GitHub",
+      "href": "https://github.com/FahadJrdev"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://raw.githubusercontent.com/FahadJrdev/resume/main/avatar.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+
+  "sections": {
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "visible": true,
+      "content": "<p>Full-Stack Software Developer with 4+ years of professional experience building scalable web and mobile applications for international clients.</p>"
+    },
+
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "visible": true,
+      "items": [
+        {
+          "id": "clt9m9x8x0000a9yq3f1k8abc",
+          "visible": true,
+          "network": "GitHub",
+          "username": "FahadJrdev",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/FahadJrdev"
+          }
+        }
+      ]
+    },
+
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "visible": true,
+      "items": [
+        {
+          "id": "clt9m9x8x0001a9yq7zv2nxyz",
+          "visible": true,
+          "company": "NT Negocios y Tecnologías",
+          "position": "Full-Stack Software Developer",
+          "location": "Remote",
+          "date": "2023 - Present",
+          "summary": "<ul><li>Developed scalable Laravel systems</li></ul>",
+          "url": { "label": "", "href": "" }
+        },
+        {
+          "id": "clt9m9x8x0002a9yq2p9d4aaa",
+          "visible": true,
+          "company": "Healthcare Booking Platform",
+          "position": "Backend Developer",
+          "location": "Remote",
+          "date": "2022",
+          "summary": "<ul><li>Built booking & scheduling systems</li></ul>",
+          "url": { "label": "", "href": "" }
+        }
+      ]
+    },
+
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "visible": true,
+      "items": [
+        {
+          "id": "clt9m9x8x0003a9yq8k5x9bbb",
+          "visible": true,
+          "name": "Healthcare Booking Platform",
+          "description": "Medical booking system",
+          "date": "2022",
+          "summary": "<ul><li>Timezone-aware booking</li></ul>",
+          "keywords": ["Laravel", "REST"],
+          "url": { "label": "", "href": "" }
+        }
+      ]
+    },
+
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "visible": true,
+      "items": [
+        {
+          "id": "clt9m9x8x0004a9yq9k2r3ccc",
+          "visible": true,
+          "name": "Backend Development",
+          "description": "",
+          "level": 4,
+          "keywords": ["Laravel", "PHP", "MySQL"]
+        }
+      ]
+    },
+
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "visible": true,
+      "items": [
+        {
+          "id": "clt9m9x8x0005a9yq4m8e7ddd",
+          "visible": true,
+          "institution": "University of Chittagong",
+          "studyType": "M.Sc.",
+          "area": "Mathematics",
+          "score": "",
+          "date": "2021 - 2023",
+          "summary": "",
+          "url": { "label": "", "href": "" }
+        }
+      ]
+    },
+
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "visible": true,
+      "items": [
+        {
+          "id": "clt9m9x8x0006a9yq6z7f5eee",
+          "visible": true,
+          "name": "English",
+          "description": "Professional",
+          "level": 4
+        }
+      ]
+    },
+
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "visible": true,
+      "items": [
+        {
+          "id": "clt9m9x8x0007a9yq1x4y2fff",
+          "visible": true,
+          "name": "System Design",
+          "keywords": ["Scalability"]
+        }
+      ]
+    },
+
+    "awards": { "id": "awards", "name": "Awards", "visible": false, "items": [] },
+    "certifications": { "id": "certifications", "name": "Certifications", "visible": false, "items": [] },
+    "volunteer": { "id": "volunteer", "name": "Volunteer", "visible": false, "items": [] },
+    "publications": { "id": "publications", "name": "Publications", "visible": false, "items": [] },
+    "references": { "id": "references", "name": "References", "visible": false, "items": [] },
+    "custom": {}
+  },
+
+  "metadata": {
+    "template": "nosepass",
+    "layout": [[["summary"], ["experience"], ["projects"], ["skills"], ["education"]]],
+    "page": { "margin": 18, "format": "a4", "options": {} },
+    "theme": { "background": "#ffffff", "text": "#000000", "primary": "#2563eb" },
+    "typography": {
+      "font": { "family": "IBM Plex Serif", "subset": "latin", "variants": ["regular"], "size": 14 },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "css": {}
+  }
+}

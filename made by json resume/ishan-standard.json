@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Fahad Bin Zahid",
+    "label": "Full-Stack Software Engineer",
+    "image": "https://raw.githubusercontent.com/FahadJrdev/resume/main/avatar.jpg",
+    "email": "leaderbin77@gmail.com",
+    "phone": "+8801830348735",
+    "url": "https://github.com/FahadJrdev",
+    "summary": "Full-Stack Software Engineer with 4+ years of professional experience building scalable web and mobile applications for international clients. Specialized in Laravel-based backend systems, RESTful APIs, booking platforms, payment integrations, timezone handling, and queue-based processing. Experienced in remote collaboration and delivering production-ready systems.",
+    "location": {
+      "city": "Faridpur",
+      "region": "Dhaka",
+      "countryCode": "BD"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "FahadJrdev",
+        "url": "https://github.com/FahadJrdev"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "name": "NT Negocios y Tecnologías",
+      "position": "Full-Stack Software Engineer (Contract)",
+      "startDate": "2023-01-01",
+      "summary": "Developed and maintained multiple production-grade systems using Laravel and React. Designed RESTful APIs, implemented complex booking and scheduling logic with timezone support, integrated international payment gateways, built Filament admin dashboards, and implemented queue-based background processing.",
+      "highlights": [
+        "Built booking-based platforms with complex business logic",
+        "Integrated multiple international payment gateways",
+        "Implemented queue systems and background jobs",
+        "Developed role-based admin dashboards using Filament",
+        "Worked remotely with international teams"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Healthcare Booking & Video Consultation Platform",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "description": "Medical appointment booking system with integrated video conferencing.",
+      "highlights": [
+        "Doctor availability and slot booking",
+        "Timezone-aware scheduling",
+        "Secure authentication and authorization",
+        "Integrated video consultations"
+      ],
+      "url": "https://accionvuela.com"
+    },
+    {
+      "name": "MaskotApp",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "description": "Pet services platform for lost & found pets.",
+      "highlights": [
+        "REST API development",
+        "Database schema design",
+        "Backend optimization"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.mascotas.maskot"
+    },
+    {
+      "name": "Goodbye Friend",
+      "startDate": "2024-01-01",
+      "description": "Pet memorial and tribute platform with web and mobile applications.",
+      "highlights": [
+        "Laravel REST APIs with queued jobs",
+        "Expo-based mobile application",
+        "Payment and tribute purchasing workflows",
+        "Admin dashboards with Filament"
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": [
+        "Laravel",
+        "PHP",
+        "REST APIs",
+        "MySQL",
+        "PostgreSQL",
+        "Queue & Job Processing",
+        "Filament",
+        "Payment Gateway Integration",
+        "Authentication & Authorization",
+        "Timezone Handling"
+      ]
+    },
+    {
+      "name": "Frontend & Mobile",
+      "level": "Intermediate",
+      "keywords": [
+        "React",
+        "Expo",
+        "Redux",
+        "React Query",
+        "Next.js",
+        "Vue",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "DevOps & Deployment",
+      "level": "Intermediate",
+      "keywords": [
+        "SSH Deployment",
+        "cPanel",
+        "PM2",
+        "Cron Jobs",
+        "Environment Configuration"
+      ]
+    },
+    {
+      "name": "Other Technologies",
+      "level": "Intermediate",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "Git",
+        "Agile Development"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "University of Chittagong",
+      "area": "Mathematics",
+      "studyType": "M.Sc.",
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31"
+    },
+    {
+      "institution": "University of Chittagong",
+      "area": "Mathematics",
+      "studyType": "B.Sc.",
+      "startDate": "2017-01-01",
+      "endDate": "2021-12-31"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Bangla",
+      "fluency": "Native"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Software Architecture",
+      "keywords": [
+        "Scalable Systems",
+        "Clean Code",
+        "System Design"
+      ]
+    }
+  ]
+}
