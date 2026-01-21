@@ -42,4 +42,4 @@ https://registry.jsonresume.org/FahadJrdev?theme=university-first
 
 ## view pdf
 
-https://fahadjrdev.github.io/resume/canva/resume-1.pdf
+https://fahadjrdev.github.io/resume/json-resume/resume-1.pdf
