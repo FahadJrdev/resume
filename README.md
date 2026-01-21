@@ -39,3 +39,7 @@ https://registry.jsonresume.org/FahadJrdev?theme=sidebar-photo-strip
 https://registry.jsonresume.org/FahadJrdev?theme=diagonal-accent-bar
 
 https://registry.jsonresume.org/FahadJrdev?theme=university-first
+
+## view pdf
+
+https://fahadjrdev.github.io/resume/canva/resume-1.pdf
