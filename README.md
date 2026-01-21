@@ -1,5 +1,7 @@
 # resume
 
+https://fahadjrdev.github.io/resume
+
 # profile
 
 https://raw.githubusercontent.com/FahadJrdev/resume/main/avatar.jpg
