@@ -18,6 +18,8 @@ https://v4.rxresu.me
 
 https://raw.githubusercontent.com/FahadJrdev/resume/main/json-resume/resume.json
 
+https://gist.github.com
+
 https://jsonresume.org/themes
 
 https://registry.jsonresume.org/FahadJrdev?theme=sidebar
